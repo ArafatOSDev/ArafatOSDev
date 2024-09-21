@@ -1,4 +1,12 @@
-## Hi, I am Arafat 👋
+## Hi there 👋
+
+My name is Arafat & I'm full Stack Web Developer with more than 5 years of professional experience. I'm excited about web technologies.
+
+My Javascript Tech Stack:
+
+Nest.js for backend development
+React.js with Next.js or CRA (depending on the project)
+MongoDB
 
 <!--
 **ArafatOSDev/ArafatOSDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +23,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 📊 GitHub Stats:
 <div align="center">
 
 <!--  
