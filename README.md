@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I am Arafat 👋
 
 <!--
 **ArafatOSDev/ArafatOSDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=ArafatOSDev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArafatOSDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
